@@ -1,6 +1,6 @@
 👋 Hi my name is Lauren. 
 🌱 I’m currently learning about data science. 
-📫 Reach me at [LinkedIn] (https://www.linkedin.com/in/lauren-milani/). 
+📫 Reach me at [LinkedIn](https://www.linkedin.com/in/lauren-milani/). 
 
 
 <!--
