@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi my name is Lauren. 
+🌱 I’m currently learning about data science. 
+📫 Reach me at [LinkedIn] (https://www.linkedin.com/in/lauren-milani/). 
+
 
 <!--
 **L7-design/L7-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
